@@ -1,0 +1,104 @@
+C:\Users\ivat1\Desktop\Telecom\NN_TelekomPP\NN_TelekomPP\bin\Debug\NN_TelekomPP.exe.config
+C:\Users\ivat1\Desktop\Telecom\NN_TelekomPP\NN_TelekomPP\bin\Debug\NN_TelekomPP.exe
+C:\Users\ivat1\Desktop\Telecom\NN_TelekomPP\NN_TelekomPP\bin\Debug\NN_TelekomPP.pdb
+C:\Users\ivat1\Desktop\Telecom\NN_TelekomPP\NN_TelekomPP\obj\Debug\NN_TelekomPP.csproj.AssemblyReference.cache
+C:\Users\ivat1\Desktop\Telecom\NN_TelekomPP\NN_TelekomPP\obj\Debug\NN_TelekomPP.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivat1\Desktop\Telecom\NN_TelekomPP\NN_TelekomPP\obj\Debug\NN_TelekomPP.Properties.Resources.resources
+C:\Users\ivat1\Desktop\Telecom\NN_TelekomPP\NN_TelekomPP\obj\Debug\NN_TelekomPP.csproj.GenerateResource.cache
+C:\Users\ivat1\Desktop\Telecom\NN_TelekomPP\NN_TelekomPP\obj\Debug\NN_TelekomPP.csproj.CoreCompileInputs.cache
+C:\Users\ivat1\Desktop\Telecom\NN_TelekomPP\NN_TelekomPP\obj\Debug\NN_TelekomPP.exe
+C:\Users\ivat1\Desktop\Telecom\NN_TelekomPP\NN_TelekomPP\obj\Debug\NN_TelekomPP.pdb
+C:\Users\ivat1\Desktop\Telecom\NN_TelekomPP\NN_TelekomPP\obj\Debug\NN_TelekomPP.Forms.Menu.resources
+C:\Users\ivat1\Desktop\Telecom\NN_TelekomPP\NN_TelekomPP\obj\Debug\NN_TelekomPP.Forms.InternetForm.resources
+C:\Users\ivat1\Desktop\Telecom\NN_TelekomPP\NN_TelekomPP\obj\Debug\NN_TelekomPP.Forms.InternetADD.resources
+C:\Users\ivat1\Desktop\Telecom\NN_TelekomPP\NN_TelekomPP\obj\Debug\NN_TelekomPP.Forms.InernetUPD.resources
+C:\Users\ivat1\OneDrive\Рабочий стол\Telecom\NN_TelekomPP\NN_TelekomPP\bin\Debug\NN_TelekomPP.exe.config
+C:\Users\ivat1\OneDrive\Рабочий стол\Telecom\NN_TelekomPP\NN_TelekomPP\bin\Debug\NN_TelekomPP.exe
+C:\Users\ivat1\OneDrive\Рабочий стол\Telecom\NN_TelekomPP\NN_TelekomPP\obj\Debug\NN_TelekomPP.csproj.AssemblyReference.cache
+C:\Users\ivat1\OneDrive\Рабочий стол\Telecom\NN_TelekomPP\NN_TelekomPP\obj\Debug\NN_TelekomPP.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivat1\OneDrive\Рабочий стол\Telecom\NN_TelekomPP\NN_TelekomPP\obj\Debug\NN_TelekomPP.Forms.InernetUPD.resources
+C:\Users\ivat1\OneDrive\Рабочий стол\Telecom\NN_TelekomPP\NN_TelekomPP\obj\Debug\NN_TelekomPP.Forms.InternetADD.resources
+C:\Users\ivat1\OneDrive\Рабочий стол\Telecom\NN_TelekomPP\NN_TelekomPP\obj\Debug\NN_TelekomPP.Forms.InternetForm.resources
+C:\Users\ivat1\OneDrive\Рабочий стол\Telecom\NN_TelekomPP\NN_TelekomPP\obj\Debug\NN_TelekomPP.Forms.Menu.resources
+C:\Users\ivat1\OneDrive\Рабочий стол\Telecom\NN_TelekomPP\NN_TelekomPP\obj\Debug\NN_TelekomPP.Properties.Resources.resources
+C:\Users\ivat1\OneDrive\Рабочий стол\Telecom\NN_TelekomPP\NN_TelekomPP\obj\Debug\NN_TelekomPP.csproj.GenerateResource.cache
+C:\Users\ivat1\OneDrive\Рабочий стол\Telecom\NN_TelekomPP\NN_TelekomPP\obj\Debug\NN_TelekomPP.csproj.CoreCompileInputs.cache
+C:\Users\ivat1\OneDrive\Рабочий стол\Telecom\NN_TelekomPP\NN_TelekomPP\obj\Debug\NN_TelekomPP.exe
+C:\Users\ivat1\OneDrive\Рабочий стол\Telecom\NN_TelekomPP\NN_TelekomPP\obj\Debug\NN_TelekomPP.pdb
+C:\Users\ivat1\OneDrive\Рабочий стол\Telecom\NN_TelekomPP\NN_TelekomPP\bin\Debug\NN_TelekomPP.pdb
+C:\Users\ivat1\OneDrive\Рабочий стол\Telecom\NN_TelekomPP\NN_TelekomPP\obj\Debug\NN_TelekomPP.Forms.Number.resources
+C:\Users\ivat1\OneDrive\Рабочий стол\Telecom\NN_TelekomPP\NN_TelekomPP\obj\Debug\NN_TelekomPP.Forms.Organizations.resources
+C:\Users\ivat1\OneDrive\Рабочий стол\Telecom\NN_TelekomPP\NN_TelekomPP\obj\Debug\NN_TelekomPP.Forms.OrganizationsADD.resources
+C:\Users\ivat1\OneDrive\Рабочий стол\Telecom\NN_TelekomPP\NN_TelekomPP\obj\Debug\NN_TelekomPP.Forms.OrganizationsUPD.resources
+C:\Users\ivat1\OneDrive\Рабочий стол\Telecom\NN_TelekomPP\NN_TelekomPP\obj\Debug\NN_TelekomPP.Forms.NumberADD.resources
+C:\Users\ivat1\OneDrive\Рабочий стол\Telecom\NN_TelekomPP\NN_TelekomPP\obj\Debug\NN_TelekomPP.Forms.SADD.resources
+C:\Users\ivat1\OneDrive\Рабочий стол\Telecom\NN_TelekomPP\NN_TelekomPP\obj\Debug\NN_TelekomPP.Forms.ServADD.resources
+C:\Users\ivat1\OneDrive\Рабочий стол\Telecom\NN_TelekomPP\NN_TelekomPP\obj\Debug\NN_TelekomPP.Forms.ServUPD.resources
+C:\Users\ivat1\OneDrive\Рабочий стол\Telecom\NN_TelekomPP\NN_TelekomPP\obj\Debug\NN_TelekomPP.Forms.SubscriptionFee.resources
+C:\Users\ivat1\OneDrive\Рабочий стол\Telecom\NN_TelekomPP\NN_TelekomPP\obj\Debug\NN_TelekomPP.Forms.SubscriptionFeeUPF.resources
+C:\Users\ivat1\OneDrive\Рабочий стол\Telecom\NN_TelekomPP\NN_TelekomPP\obj\Debug\NN_TelekomPP.Forms.SubscriptionFeeADD.resources
+C:\Users\ivat1\OneDrive\Рабочий стол\Telecom\NN_TelekomPP\NN_TelekomPP\obj\Debug\NN_TelekomPP.Forms.NumberUPD.resources
+C:\Users\ivat1\OneDrive\Рабочий стол\Telecom\NN_TelekomPP\NN_TelekomPP\obj\Debug\NN_TelekomPP.Forms.Services_customers.resources
+C:\Users\ivat1\OneDrive\Рабочий стол\Telecom\NN_TelekomPP\NN_TelekomPP\obj\Debug\NN_TelekomPP.Forms.Services_customersADD.resources
+C:\Users\ivat1\OneDrive\Рабочий стол\Telecom\NN_TelekomPP\NN_TelekomPP\obj\Debug\NN_TelekomPP.Forms.Services_customersUPD.resources
+C:\Users\ivat1\OneDrive\Рабочий стол\Telecom\NN_TelekomPP\NN_TelekomPP\obj\Debug\NN_TelekomPP.Forms.ADD_customers.resources
+C:\Users\ivat1\OneDrive\Рабочий стол\Telecom\NN_TelekomPP\NN_TelekomPP\obj\Debug\NN_TelekomPP.Forms.ADD_customersADD.resources
+C:\Users\ivat1\OneDrive\Рабочий стол\Telecom\NN_TelekomPP\NN_TelekomPP\obj\Debug\NN_TelekomPP.Forms.ADD_customersUPD.resources
+C:\Users\ivat1\OneDrive\Рабочий стол\Telecom\NN_TelekomPP\NN_TelekomPP\obj\Debug\NN_TelekomPP.Forms.CalculetionForm.resources
+C:\Users\ivat1\OneDrive\Рабочий стол\Telecom\NN_TelekomPP\NN_TelekomPP\obj\Debug\NN_TelekomPP.Forms.CalculetionFormADD.resources
+C:\Users\ivat1\OneDrive\Рабочий стол\Telecom\NN_TelekomPP\NN_TelekomPP\obj\Debug\NN_TelekomPP.Forms.CalculetionFormUPD.resources
+C:\Users\ivat1\OneDrive\Рабочий стол\Telecom\NN_TelekomPP\NN_TelekomPP\obj\Debug\Interop.WMPLib.dll
+C:\Users\ivat1\OneDrive\Рабочий стол\Telecom\NN_TelekomPP\NN_TelekomPP\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ivat1\OneDrive\Рабочий стол\Telecom\NN_TelekomPP\NN_TelekomPP\obj\Debug\NN_TelekomPP.csproj.ResolveComReference.cache
+C:\Users\ivat1\OneDrive\Рабочий стол\Telecom\NN_TelekomPP\NN_TelekomPP\bin\Debug\Interop.WMPLib.dll
+C:\Users\ivat1\OneDrive\Рабочий стол\Telecom\NN_TelekomPP\NN_TelekomPP\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ivat1\OneDrive\Рабочий стол\Telecom\NN_TelekomPP\NN_TelekomPP\obj\Debug\NN_TelekomPP.Forms.Date.resources
+C:\Users\ivat1\OneDrive\Рабочий стол\Telecom\NN_TelekomPP\NN_TelekomPP\bin\Debug\NN_TelekomPP.exe.manifest
+C:\Users\ivat1\OneDrive\Рабочий стол\Telecom\NN_TelekomPP\NN_TelekomPP\bin\Debug\NN_TelekomPP.application
+C:\Users\ivat1\OneDrive\Рабочий стол\Telecom\NN_TelekomPP\NN_TelekomPP\obj\Debug\NN_TelekomPP.exe.manifest
+C:\Users\ivat1\OneDrive\Рабочий стол\Telecom\NN_TelekomPP\NN_TelekomPP\obj\Debug\NN_TelekomPP.application
+C:\Users\ivat1\Desktop\NN_TelekomPP\NN_TelekomPP\bin\Debug\NN_TelekomPP.exe.config
+C:\Users\ivat1\Desktop\NN_TelekomPP\NN_TelekomPP\bin\Debug\NN_TelekomPP.exe.manifest
+C:\Users\ivat1\Desktop\NN_TelekomPP\NN_TelekomPP\bin\Debug\NN_TelekomPP.application
+C:\Users\ivat1\Desktop\NN_TelekomPP\NN_TelekomPP\bin\Debug\NN_TelekomPP.exe
+C:\Users\ivat1\Desktop\NN_TelekomPP\NN_TelekomPP\bin\Debug\NN_TelekomPP.pdb
+C:\Users\ivat1\Desktop\NN_TelekomPP\NN_TelekomPP\bin\Debug\Interop.WMPLib.dll
+C:\Users\ivat1\Desktop\NN_TelekomPP\NN_TelekomPP\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ivat1\Desktop\NN_TelekomPP\NN_TelekomPP\obj\Debug\NN_TelekomPP.csproj.AssemblyReference.cache
+C:\Users\ivat1\Desktop\NN_TelekomPP\NN_TelekomPP\obj\Debug\NN_TelekomPP.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivat1\Desktop\NN_TelekomPP\NN_TelekomPP\obj\Debug\Interop.WMPLib.dll
+C:\Users\ivat1\Desktop\NN_TelekomPP\NN_TelekomPP\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ivat1\Desktop\NN_TelekomPP\NN_TelekomPP\obj\Debug\NN_TelekomPP.csproj.ResolveComReference.cache
+C:\Users\ivat1\Desktop\NN_TelekomPP\NN_TelekomPP\obj\Debug\NN_TelekomPP.Forms.ADD_customers.resources
+C:\Users\ivat1\Desktop\NN_TelekomPP\NN_TelekomPP\obj\Debug\NN_TelekomPP.Forms.ADD_customersADD.resources
+C:\Users\ivat1\Desktop\NN_TelekomPP\NN_TelekomPP\obj\Debug\NN_TelekomPP.Forms.ADD_customersUPD.resources
+C:\Users\ivat1\Desktop\NN_TelekomPP\NN_TelekomPP\obj\Debug\NN_TelekomPP.Forms.CalculetionForm.resources
+C:\Users\ivat1\Desktop\NN_TelekomPP\NN_TelekomPP\obj\Debug\NN_TelekomPP.Forms.CalculetionFormADD.resources
+C:\Users\ivat1\Desktop\NN_TelekomPP\NN_TelekomPP\obj\Debug\NN_TelekomPP.Forms.CalculetionFormUPD.resources
+C:\Users\ivat1\Desktop\NN_TelekomPP\NN_TelekomPP\obj\Debug\NN_TelekomPP.Forms.Date.resources
+C:\Users\ivat1\Desktop\NN_TelekomPP\NN_TelekomPP\obj\Debug\NN_TelekomPP.Forms.InernetUPD.resources
+C:\Users\ivat1\Desktop\NN_TelekomPP\NN_TelekomPP\obj\Debug\NN_TelekomPP.Forms.InternetADD.resources
+C:\Users\ivat1\Desktop\NN_TelekomPP\NN_TelekomPP\obj\Debug\NN_TelekomPP.Forms.InternetForm.resources
+C:\Users\ivat1\Desktop\NN_TelekomPP\NN_TelekomPP\obj\Debug\NN_TelekomPP.Forms.Menu.resources
+C:\Users\ivat1\Desktop\NN_TelekomPP\NN_TelekomPP\obj\Debug\NN_TelekomPP.Forms.Number.resources
+C:\Users\ivat1\Desktop\NN_TelekomPP\NN_TelekomPP\obj\Debug\NN_TelekomPP.Forms.NumberADD.resources
+C:\Users\ivat1\Desktop\NN_TelekomPP\NN_TelekomPP\obj\Debug\NN_TelekomPP.Forms.NumberUPD.resources
+C:\Users\ivat1\Desktop\NN_TelekomPP\NN_TelekomPP\obj\Debug\NN_TelekomPP.Forms.Organizations.resources
+C:\Users\ivat1\Desktop\NN_TelekomPP\NN_TelekomPP\obj\Debug\NN_TelekomPP.Forms.OrganizationsADD.resources
+C:\Users\ivat1\Desktop\NN_TelekomPP\NN_TelekomPP\obj\Debug\NN_TelekomPP.Forms.OrganizationsUPD.resources
+C:\Users\ivat1\Desktop\NN_TelekomPP\NN_TelekomPP\obj\Debug\NN_TelekomPP.Forms.SADD.resources
+C:\Users\ivat1\Desktop\NN_TelekomPP\NN_TelekomPP\obj\Debug\NN_TelekomPP.Forms.ServADD.resources
+C:\Users\ivat1\Desktop\NN_TelekomPP\NN_TelekomPP\obj\Debug\NN_TelekomPP.Forms.Services_customers.resources
+C:\Users\ivat1\Desktop\NN_TelekomPP\NN_TelekomPP\obj\Debug\NN_TelekomPP.Forms.Services_customersADD.resources
+C:\Users\ivat1\Desktop\NN_TelekomPP\NN_TelekomPP\obj\Debug\NN_TelekomPP.Forms.Services_customersUPD.resources
+C:\Users\ivat1\Desktop\NN_TelekomPP\NN_TelekomPP\obj\Debug\NN_TelekomPP.Forms.ServUPD.resources
+C:\Users\ivat1\Desktop\NN_TelekomPP\NN_TelekomPP\obj\Debug\NN_TelekomPP.Forms.SubscriptionFee.resources
+C:\Users\ivat1\Desktop\NN_TelekomPP\NN_TelekomPP\obj\Debug\NN_TelekomPP.Forms.SubscriptionFeeADD.resources
+C:\Users\ivat1\Desktop\NN_TelekomPP\NN_TelekomPP\obj\Debug\NN_TelekomPP.Forms.SubscriptionFeeUPF.resources
+C:\Users\ivat1\Desktop\NN_TelekomPP\NN_TelekomPP\obj\Debug\NN_TelekomPP.Properties.Resources.resources
+C:\Users\ivat1\Desktop\NN_TelekomPP\NN_TelekomPP\obj\Debug\NN_TelekomPP.csproj.GenerateResource.cache
+C:\Users\ivat1\Desktop\NN_TelekomPP\NN_TelekomPP\obj\Debug\NN_TelekomPP.csproj.CoreCompileInputs.cache
+C:\Users\ivat1\Desktop\NN_TelekomPP\NN_TelekomPP\obj\Debug\NN_TelekomPP.exe.manifest
+C:\Users\ivat1\Desktop\NN_TelekomPP\NN_TelekomPP\obj\Debug\NN_TelekomPP.application
+C:\Users\ivat1\Desktop\NN_TelekomPP\NN_TelekomPP\obj\Debug\NN_TelekomPP.exe
+C:\Users\ivat1\Desktop\NN_TelekomPP\NN_TelekomPP\obj\Debug\NN_TelekomPP.pdb
