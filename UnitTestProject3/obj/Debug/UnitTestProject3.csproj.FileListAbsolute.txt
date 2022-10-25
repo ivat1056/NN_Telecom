@@ -22,3 +22,27 @@ C:\Users\ivat1\OneDrive\Рабочий стол\Telecom\NN_TelekomPP\UnitTestPro
 C:\Users\ivat1\OneDrive\Рабочий стол\Telecom\NN_TelekomPP\UnitTestProject3\obj\Debug\UnitTestProject3.csproj.CopyComplete
 C:\Users\ivat1\OneDrive\Рабочий стол\Telecom\NN_TelekomPP\UnitTestProject3\obj\Debug\UnitTestProject3.dll
 C:\Users\ivat1\OneDrive\Рабочий стол\Telecom\NN_TelekomPP\UnitTestProject3\obj\Debug\UnitTestProject3.pdb
+C:\Users\ivat1\Desktop\NN_TelekomPP\UnitTestProject3\bin\Debug\ru\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+C:\Users\ivat1\Desktop\NN_TelekomPP\UnitTestProject3\bin\Debug\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ivat1\Desktop\NN_TelekomPP\UnitTestProject3\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\ivat1\Desktop\NN_TelekomPP\UnitTestProject3\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\ivat1\Desktop\NN_TelekomPP\UnitTestProject3\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ivat1\Desktop\NN_TelekomPP\UnitTestProject3\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\ivat1\Desktop\NN_TelekomPP\UnitTestProject3\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\ivat1\Desktop\NN_TelekomPP\UnitTestProject3\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\ivat1\Desktop\NN_TelekomPP\UnitTestProject3\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\ivat1\Desktop\NN_TelekomPP\UnitTestProject3\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\ivat1\Desktop\NN_TelekomPP\UnitTestProject3\bin\Debug\UnitTestProject3.dll
+C:\Users\ivat1\Desktop\NN_TelekomPP\UnitTestProject3\bin\Debug\UnitTestProject3.pdb
+C:\Users\ivat1\Desktop\NN_TelekomPP\UnitTestProject3\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\ivat1\Desktop\NN_TelekomPP\UnitTestProject3\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\ivat1\Desktop\NN_TelekomPP\UnitTestProject3\bin\Debug\NN_TelekomPP.exe
+C:\Users\ivat1\Desktop\NN_TelekomPP\UnitTestProject3\bin\Debug\NN_TelekomPP.pdb
+C:\Users\ivat1\Desktop\NN_TelekomPP\UnitTestProject3\bin\Debug\NN_TelekomPP.exe.config
+C:\Users\ivat1\Desktop\NN_TelekomPP\UnitTestProject3\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\ivat1\Desktop\NN_TelekomPP\UnitTestProject3\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\ivat1\Desktop\NN_TelekomPP\UnitTestProject3\obj\Debug\UnitTestProject3.csproj.AssemblyReference.cache
+C:\Users\ivat1\Desktop\NN_TelekomPP\UnitTestProject3\obj\Debug\UnitTestProject3.csproj.CoreCompileInputs.cache
+C:\Users\ivat1\Desktop\NN_TelekomPP\UnitTestProject3\obj\Debug\UnitTestProject3.csproj.CopyComplete
+C:\Users\ivat1\Desktop\NN_TelekomPP\UnitTestProject3\obj\Debug\UnitTestProject3.dll
+C:\Users\ivat1\Desktop\NN_TelekomPP\UnitTestProject3\obj\Debug\UnitTestProject3.pdb

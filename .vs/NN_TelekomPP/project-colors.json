@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b92a4a56-ff2f-49f0-bd6d-16ab6356fad4": {
+      "ProjectGuid": "b92a4a56-ff2f-49f0-bd6d-16ab6356fad4",
+      "DisplayName": "NN_TelekomPP",
+      "ColorIndex": 0
+    },
+    "e60b8596-1a0d-4bba-ab89-2a831c951117": {
+      "ProjectGuid": "e60b8596-1a0d-4bba-ab89-2a831c951117",
+      "DisplayName": "UnitTestProject3",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
